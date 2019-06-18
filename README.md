@@ -1,3 +1,5 @@
 # texthover
 ## texthover
-```console.log("hello world");```
+```javascript
+console.log("hello world");
+```
